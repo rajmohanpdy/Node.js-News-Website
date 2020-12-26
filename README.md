@@ -14,7 +14,7 @@ $ npm start
 
 ### YouTube Video & Article
 
-[Node.js News Website](https://youtu.be/EkQc-8uzxIA)
+[Node Js Website](https://youtu.be/EkQc-8uzxIA)
 
 [Read Article](https://raddy.co.uk/blog/build-news-website-with-node-js-express-ejs-wp-rest-api/)
 
